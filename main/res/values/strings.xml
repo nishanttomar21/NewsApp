@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Digest</string>
+    <string name="title">Newsfeed</string>
+    <string name="full_article"><u>"Full Article</u></string>
+</resources>
